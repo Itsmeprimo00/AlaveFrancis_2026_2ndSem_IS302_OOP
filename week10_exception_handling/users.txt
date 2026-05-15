@@ -1,3 +1,0 @@
-admin,admin123
-student1,pass123
-teacher,teach2026

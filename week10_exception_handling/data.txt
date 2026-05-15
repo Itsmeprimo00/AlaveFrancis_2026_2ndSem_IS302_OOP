@@ -1,2 +1,0 @@
-This is sample data for safe file reading.
-Use this text file to test file_reader_safe.py.
